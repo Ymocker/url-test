@@ -1,17 +1,21 @@
 # Test project
 
-1. Clone the project
+##. Clone the project
 
 git clone https://github.com/Ymocker/url-test
 
-2. Run composer
+##. Run composer
 
 composer update
 
-3. Make a MySQL database
+##. Make a MySQL database
 
 name it "test_url"
 
-4. Run migration
+##. Make changes
+
+in the .env file (if necessary)
+
+##. Run migration
 
 php artisan migrate
