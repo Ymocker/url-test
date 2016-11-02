@@ -2,7 +2,7 @@
 
 1. Clone the project
 
-git clone https://github.com/Ymocker/url-testproject
+git clone https://github.com/Ymocker/url-test
 
 2. Run composer
 
